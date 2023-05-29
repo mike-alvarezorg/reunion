@@ -5,6 +5,9 @@ family reunion information
 The were born from Fabian's high school graduation.
 - [Letters and Articles](./LettersArticles.pdf)
 
+## Original Homes
+This [page](./buffordDrawing.md) shows the original homes after Mom and Dad started a family.
+
 ## Ancestry Reports
 - [23andMe Composition Ancestry Report](./23andMe/ancestry_composition.pdf) provides a summary of the percentages of DNA for Miguel Alvarez. It will be somewhat different for siblings as they would not have inherited the exact same DNA composition from Mom and Dad.
 - [23andMe Composition Spain and Portuguese Report](./23andMe/ancestry_composition52.4_SpainishPortuguese.pdf) takes a deeper dive into the Spain and Portuguese DNA. This report is provided because 52.4% of Miguel's DNA is from Spain or Portuguese.
