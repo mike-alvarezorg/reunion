@@ -3,7 +3,7 @@ family reunion information
 
 ## Letters and Articles
 The were born from Fabian's high school graduation.
-- [Letters and Articles](./LettersArticles.pdf)
+- [Letters and Articles in PDF format](./LettersArticles.pdf) or [here to view online](LettersArticles.md)
 
 ## Original Homes
 This [page](./buffordDrawing.md) shows the original homes after Mom and Dad started a family.
